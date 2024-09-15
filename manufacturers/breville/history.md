@@ -1,3 +1,11 @@
+---
+layout: default
+title: Breville History
+parent: Breville
+grand_parent: Manufacturers
+---
+
+# Breville + History
 - [[#Breville Rundown + History|Breville Rundown + History]]
 - [[#General Type of Machines by Heating Element|General Type of Machines by Heating Element]]
 	- [[#General Type of Machines by Heating Element#Dual Boilers with Group-head Boiler|Dual Boilers with Group-head Boiler]]
